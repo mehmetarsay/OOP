@@ -1,0 +1,288 @@
+﻿<?xml version="1.0"?>
+<Araclar>
+    <Arac>
+        <Turu>Otobus</Turu>
+        <Plaka>34BIL122</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Ahmet Uzunyol</Adi>
+                <Yasi>31</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Mehmet Sollamaz</Adi>
+                <Yasi>34</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Ayşe Çokgezer</Adi>
+                <BinisNoktasi>Istanbul</BinisNoktasi>
+                <InisNoktasi>Balikesir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Sefa Camkenari</Adi>
+                <BinisNoktasi>Istanbul</BinisNoktasi>
+                <InisNoktasi>Izmir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Fatma IndiBindi</Adi>
+                <BinisNoktasi>Istanbul</BinisNoktasi>
+                <InisNoktasi>Gebze</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>41CPP11</Plaka>
+        <OzluSoz>Al yazmalim</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Mert Derttaşir</Adi>
+                <Yasi>55</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Gouda Peyniri</Icerik>
+                <Agirlik>40</Agirlik>
+                <Hacim>30</Hacim>
+                <Alici>Ferhat Gurmeoğlu</Alici>
+                <BinisNoktasi>Ardahan</BinisNoktasi>
+                <InisNoktasi>Bolu</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+    <Arac>
+        <Turu>Otobus</Turu>
+        <Plaka>34BİL122</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Ali Beraber</Adi>
+                <Yasi>58</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Fatma Azgezer</Adi>
+                <BinisNoktasi>Bursa</BinisNoktasi>
+                <InisNoktasi>Balıkesir</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobus</Turu>
+        <Plaka>34BİL122</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Mehmet Hizli</Adi>
+                <Yasi>33</Yasi>
+                <EhliyetSinifi>F</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobus</Turu>
+        <Plaka>34AS34</Plaka>
+        <Suruculer>
+			<Surucu>
+                <Adi>Berk Kreb</Adi>
+                <Yasi>32</Yasi>
+                <EhliyetSinifi>A</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Kasim Hicgelmez</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Balıkesir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Semih Müezzinoglu</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>İzmir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Secil Secildi</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Gebze</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobus</Turu>
+        <Plaka>34SADA5465</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Berk Kreb</Adi>
+                <Yasi>32</Yasi>
+                <EhliyetSinifi>A</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Suleyman Surucu</Adi>
+                <Yasi>60</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Ibrahim Uzunyol</Adi>
+                <Yasi>35</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Bilal Kisa</Adi>
+                <Yasi>55</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Ayşe Çokgezer</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Balıkesir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Sefa Camkenarı</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>İzmir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Fatma İndiBindi</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Gebze</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Semih kaya</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Balıkesir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Ada Ismikisa</Adi>
+                <BinisNoktasi>Bozcaada</BinisNoktasi>
+                <InisNoktasi>Buyukada</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Donald Trump</Adi>
+                <BinisNoktasi>Dunya</BinisNoktasi>
+                <InisNoktasi>Cehennem</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>454SDSD6546</Plaka>
+        <OzluSoz>peynir  sevmeyende ne biliyim? </OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Mert Derttaşır</Adi>
+                <Yasi>55</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Sabri Yuktaşır</Adi>
+                <Yasi>54</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Gouda Peyniri</Icerik>
+                <Agirlik>40</Agirlik>
+                <Hacim>30</Hacim>
+                <Alici>Ferhat Gurmeoğlu</Alici>
+                <BinisNoktasi>Ardahan</BinisNoktasi>
+                <InisNoktasi>Bolu</InisNoktasi>
+            </Yuk>
+            <Yuk>
+                <Icerik>Saman</Icerik>
+                <Agirlik>400</Agirlik>
+                <Hacim>3089</Hacim>
+                <Alici>Mustafa Seysu</Alici>
+                <BinisNoktasi>Ermenistan</BinisNoktasi>
+                <InisNoktasi>Turkiye</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+     <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>345DF84</Plaka>
+        <OzluSoz>YuKuM Yok AmA DeRdIm CoK</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Samet Gun</Adi>
+                <Yasi>55</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+        </Yukler>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>54SDS544</Plaka>
+        <OzluSoz>Yuk cok para yok </OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Melih Guryuk</Adi>
+                <Yasi>68</Yasi>
+                <EhliyetSinifi>A</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Huseyin pektasır</Adi>
+                <Yasi>54</Yasi>
+                <EhliyetSinifi>A</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Kırmızı et</Icerik>
+                <Agirlik>5498</Agirlik>
+                <Hacim>6264</Hacim>
+                <Alici>Necmi Kasapoglu</Alici>
+                <BinisNoktasi>Ardahan</BinisNoktasi>
+                <InisNoktasi>Samsun</InisNoktasi>
+            </Yuk>
+            <Yuk>
+                <Icerik>Benzin</Icerik>
+                <Agirlik>4070</Agirlik>
+                <Hacim>3089</Hacim>
+                <Alici>Abdurrahman Elhuseyounei </Alici>
+                <BinisNoktasi>Suriye</BinisNoktasi>
+                <InisNoktasi>Turkiye</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>345DF84</Plaka>
+        <OzluSoz>Mutluluk yakın ama mazot yok</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Belis Sucu</Adi>
+                <Yasi>55</Yasi>
+                <EhliyetSinifi>D</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Alis Sucu</Adi>
+                <Yasi>54</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Celis Sucu</Adi>
+                <Yasi>53</Yasi>
+                <EhliyetSinifi>B</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Delis Sucu</Adi>
+                <Yasi>52</Yasi>
+                <EhliyetSinifi>A</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+        </Yukler>
+    </Arac>
+</Araclar>

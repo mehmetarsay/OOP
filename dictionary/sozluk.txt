@@ -1,0 +1,16 @@
+yuz
+-sayı
+-bir eylem
+-bir vucut parçası
+#
+okul
+-egitim gorulen yer
+#
+siyah
+-kara
+-bir renk
+#
+ak
+-bir renk
+-beyaz
+#
